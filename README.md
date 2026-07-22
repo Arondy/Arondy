@@ -3,7 +3,7 @@
 I'm an aspiring Go developer.
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arondy&show_icons=true&locale=en&theme=dark" alt="Arondy" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Arondy&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" alt="Arondy" />
 </p>
 
 <details>
